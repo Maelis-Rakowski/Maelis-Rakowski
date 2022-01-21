@@ -70,7 +70,7 @@ Adresse email : maelis.rakowski@etu.umontpellier.fr
 
 ## :mortar_board: Projets scolaires
 
-### :turtle: <a href="https://fr.wikipedia.org/wiki/Bootstrap_(framework)" rel="nofollow">Site de vente de tortues</a>
+### :turtle: <a href="https://github.com/Maelis-Rakowski/Projet-PHP-Rakowski-Sadi-Valadier" rel="nofollow">Site de vente de tortues</a>
 
 Création d'un site de vente dans le cadre du troisième semestre de mon DUT. Nous étions en groupe de trois étudiants. Langages utilisés : PHP, HTML, CSS.
 J'ai principalement travaillé sur la partie Php du site.
@@ -80,7 +80,7 @@ J'ai principalement travaillé sur la partie Php du site.
  <a href=https://webinfo.iutmontp.univ-montp2.fr/~valadiery/eCommerce/index.php rel="nofolow">Accéder au site</a> 
  <br></br>
 
- ### :milky_way: <a href="https://fr.wikipedia.org/wiki/Bootstrap_(framework)" rel="nofollow">Simulateur de trajectoires de planètes</a>
+ ### :milky_way: <a href="https://github.com/liam-thorel/ProjetS3-Rakowski-Sadi-Delalande-Thorel" rel="nofollow">Simulateur de trajectoires de planètes</a>
  
 Créations d'une application de simulation de trajectoires de planètes dans le cadre du projet du troisième semestre de mon DUT. Nous étions en groupe de quatre étudiants. Languages utilisés : Java; Librairies utilisés : JavaFX.
 
