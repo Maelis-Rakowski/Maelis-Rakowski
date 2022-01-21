@@ -93,8 +93,9 @@ Créations d'une application de simulation de trajectoires de planètes dans le 
 
 ### 🔦 Glowing in the dark 
  
- Jeu vidéo développé dans le cadre de la <a href="https://codegamejam.extragames.fr/" rel="nofollow"> Code Game Jam 2022</a> en groupe de 5 sur le thème "Merveilles des profondeurs". <br></br>
+ Jeu vidéo développé dans le cadre de la <a href="https://codegamejam.extragames.fr/" rel="nofollow"> Code Game Jam 2022</a> en groupe de 5 sur le thème "Merveilles des profondeurs" en 30h. <br></br>
  Nous incarnons un petit robot enfermé dans des mines sombres avec pour seul éclairage une lampe torche. Il faudra récolter des minerais et utiliser sa lampe torche à bonne escient pour résoudre les différentes énigmes.
+ Langage utilisé = C#; Logiciel = Unity
  
  ![image](https://user-images.githubusercontent.com/77644739/150506465-ccf843a8-8dfa-4f5c-ab8b-ee0abc893a1e.png)
  ![image](https://user-images.githubusercontent.com/77644739/150506647-296e11a0-a0d9-4570-bb37-8e0211df44f0.png)
