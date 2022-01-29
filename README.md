@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## :information_source: About me
+## :information_source: À propos
 
 Je suis une étudiante en DUT Informatique à l'IUT Montpellier-Sète.
 Adresse email : maelis.rakowski@etu.umontpellier.fr
@@ -35,34 +35,34 @@ Adresse email : maelis.rakowski@etu.umontpellier.fr
 			<td align="center"><a href="https://openjfx.io//" rel="nofollow">JavaFX</a></td>
 			<td align="center"><a href="https://code.visualstudio.com/" rel="nofollow">VS Code</a></td>
 			<td align="center"><a href="https://visualstudio.microsoft.com/" rel="nofollow">Visual Studio</a></td>
-   <td align="center"><a href="https://fr.wordpress.org/" rel="nofollow">WordPress</a></td>
+   			<td align="center"><a href="https://fr.wordpress.org/" rel="nofollow">WordPress</a></td>
 		</tr>
 		<tr>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Java_(programming_language)" rel="nofollow">Php</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/HTML" rel="nofollow">HTML</a></td>
-   <td align="center"><a href="https://numpy.org/" rel="nofollow">Numpy</a></td>
-   <td align="center"></td>
+   			<td align="center"><a href="https://numpy.org/" rel="nofollow">Numpy</a></td>
+   			<td align="center"></td>
 			<td align="center"><a href="https://www.jetbrains.com/idea/" rel="nofollow">IntelliJ</a></td>
 			<td align="center"><a href="https://unity.com/" rel="nofollow">Unity</a></td>
-   <td align="center"><a href="https://github.com/" rel="nofollow">GitHub</a></td>
+   			<td align="center"><a href="https://github.com/" rel="nofollow">GitHub</a></td>
 		</tr>
 		<tr>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/CSS" rel="nofollow">CSS</a></td>
 			<td align="center"><a href="https://fr.wikipedia.org/wiki/PL/SQL" rel="nofollow">PL/SQL</a></td>
 			<td align="center"></td>
-   <td align="center"></td>
+   			<td align="center"></td>
 			<td align="center"><a href="https://www.spyder-ide.org/" rel="nofollow">Spyder</a></td>
 			<td align="center"><a href="https://www.microsoft.com/en-us/microsoft-365/excel" rel="nofollow">Excel</a></td>
-   <td align="center"><a href="https://gitlab.com/gitlab-org/gitlab" rel="nofollow">GitLab</a></td>
+   			<td align="center"><a href="https://gitlab.com/gitlab-org/gitlab" rel="nofollow">GitLab</a></td>
 		</tr>
 		<tr>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" rel="nofollow">C#</a></td>
 			<td align="center"><a href="https://fr.wikipedia.org/wiki/Python_(langage)" rel="nofollow">Python</a></td>
-   <td align="center"></td>
+   			<td align="center"></td>
 			<td align="center"></td>
-   <td align="center"><a href="https://fr.wikipedia.org/wiki/Bootstrap_(framework)" rel="nofollow">Bootstrap</a></td>
-   <td align="center"></td>
-   <td align="center"></td>
+   			<td align="center"><a href="https://fr.wikipedia.org/wiki/Bootstrap_(framework)" rel="nofollow">Bootstrap</a></td>
+  			<td align="center"></td>
+			<td align="center"><a href="https://www.postgresql.org/" rel="nofollow">PostGreSQL</a></td>
 		</tr>
 	</tbody>
 </table>
