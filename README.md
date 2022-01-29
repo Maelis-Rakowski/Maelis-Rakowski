@@ -73,7 +73,7 @@ Adresse email : maelis.rakowski@etu.umontpellier.fr
 ### :turtle: <a href="https://github.com/Maelis-Rakowski/Projet-PHP-Rakowski-Sadi-Valadier" rel="nofollow">Site de vente de tortues</a>
 
 Création d'un site de vente dans le cadre du troisième semestre de mon DUT. Nous étions en groupe de trois étudiants. Langages utilisés : PHP, HTML, CSS.
-J'ai principalement travaillé sur la partie Php du site.
+J'ai principalement travaillé sur la partie Php du site ainsi que sur la base de donnée.
 
 ![image](https://user-images.githubusercontent.com/77644739/150508720-0ec0b919-5c30-4e2c-b23f-18769cc3abe2.png)
 
