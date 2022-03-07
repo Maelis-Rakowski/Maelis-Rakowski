@@ -61,7 +61,7 @@ Adresse email : maelis.rakowski@etu.umontpellier.fr
    			<td align="center"></td>
 			<td align="center"></td>
    			<td align="center"><a href="https://fr.wikipedia.org/wiki/Bootstrap_(framework)" rel="nofollow">Bootstrap</a></td>
-  			<td align="center"></td>
+			<td align="center"><a href="https://www.jetbrains.com/pycharm/">PyCharm</a></td>
 			<td align="center"><a href="https://www.postgresql.org/" rel="nofollow">PostGreSQL</a></td>
 		</tr>
 	</tbody>
