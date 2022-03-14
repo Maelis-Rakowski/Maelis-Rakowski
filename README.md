@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 ## :information_source: À propos
 
 Je suis une étudiante en DUT Informatique à l'IUT Montpellier-Sète.
+<br></br>
 Adresse email : maelis.rakowski@etu.umontpellier.fr
+<br></br>
+Mes compétences :
+<br></br>
 
 <table align="center">
 	<thead>
@@ -72,8 +76,11 @@ Adresse email : maelis.rakowski@etu.umontpellier.fr
 
 ### :turtle: <a href="https://github.com/Maelis-Rakowski/Projet-PHP-Rakowski-Sadi-Valadier" rel="nofollow">Site de vente de tortues</a>
 
-Création d'un site de vente dans le cadre du troisième semestre de mon DUT. Nous étions en groupe de trois étudiants. Langages utilisés : PHP, HTML, CSS.
+Création d'un site de vente dans le cadre du troisième semestre de mon DUT. Nous étions en groupe de trois étudiants. 
+ <br></br>
 J'ai principalement travaillé sur la partie Php du site ainsi que sur la base de donnée.
+ <br></br> <br></br>
+Langages utilisés : PHP, HTML, CSS.
 
 ![image](https://user-images.githubusercontent.com/77644739/150508720-0ec0b919-5c30-4e2c-b23f-18769cc3abe2.png)
 
