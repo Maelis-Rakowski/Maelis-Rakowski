@@ -19,6 +19,11 @@ Je suis une étudiante en DUT Informatique à l'IUT Montpellier-Sète.
 <br></br>
 Adresse email : maelis.rakowski@etu.umontpellier.fr
 <br></br>
+![image](https://user-images.githubusercontent.com/77644739/160999484-0ef96106-0bda-4ab7-9313-334e96e7a2f2.png)
+<br></br>
+![image](https://user-images.githubusercontent.com/77644739/161001205-6f4fa682-8948-4734-b73a-01935ff3f87c.png)
+<br></br>
+
 Mes compétences :
 <br></br>
 
@@ -89,7 +94,7 @@ Langages utilisés : PHP, HTML, CSS.
 
  ### :milky_way: <a href="https://github.com/liam-thorel/ProjetS3-Rakowski-Sadi-Delalande-Thorel" rel="nofollow">Simulateur de trajectoires de planètes</a>
  
-Créations d'une application de simulation de trajectoires de planètes dans le cadre du projet du troisième semestre de mon DUT. Nous étions en groupe de quatre étudiants. Languages utilisés : Java; Librairies utilisés : JavaFX.
+Projet tuteuré du 3ème semestre en DUT informatique, le but est de réaliser un simulateur de planètes 2D avec une interface simple et ergonomique suivant les lois de Newton et concernant un nombre arbitraire de planètes. Ce projet a été réalisé en groupe de 4 avec le langage de programmation Java et à l'aide de la librairie JavaFX Languages utilisés : Java; Librairies utilisés : JavaFX.
 
 ![image](https://user-images.githubusercontent.com/77644739/150406976-e85f631a-0ded-4ac0-b3f2-8e6c18c94b92.png)
 
@@ -109,5 +114,8 @@ Créations d'une application de simulation de trajectoires de planètes dans le 
 
 Nous avons gagné le prix de la fonctionnalité.<br>
 Projet régulièrement mis à jour avec de nouvelles fonctionnalités.
+
+Pour en savoir plus sur mon implication sur ce projet :
+https://youtu.be/pCoMe-DV50A
 
 Cliquez <a href= https://rakowskimaelis.itch.io/glowing-in-the-dark rel="nofolow"> ici</a> pour accéder à la page itch.io.
