@@ -130,7 +130,7 @@ https://youtu.be/pCoMe-DV50A
 
 Cliquez <a href= https://rakowskimaelis.itch.io/glowing-in-the-dark rel="nofolow"> ici</a> pour accéder à la page itch.io et jouer au jeu.
 <br></br>
-### 🔦 Calculateur de statistique par la méthode bayésienne
+### 📊 Calculateur de statistiques par la méthode bayésienne
 
 Développement d'une interface pour calculer les probabilitées grace au <a href="https://www.youtube.com/watch?v=x-2uVNze56s" rel="nofolow"> bayésianisme </a> en Python.
 Pour ce projet, j'ai tout d'abord commencé par rédiger un code simple permettant de réaliser les calcules correctement depuis la console Python. 
@@ -138,6 +138,11 @@ Pour ce projet, j'ai tout d'abord commencé par rédiger un code simple permetta
 Par la suite j'ai réalisé un plan d'interface en quatre étapes en utilisant la méthode additive. A chaque étape, j'ajoute une fonctionnalité à mon interface.
 ![S3-G1 - App bayes](https://user-images.githubusercontent.com/77644739/161274033-f7b4750c-0d3a-42fb-a7e7-f910b005cdd2.jpg)
 
+L'interface actuelle :
+<br></br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/77644739/161276465-172c637f-d541-4d73-9f9d-2ecee10744f9.png" align=”middle”>
+</p>
 
 Ce projet m'a permis d'approfondire mes connaissances en Python, en création d'interface, en gestion de projet et d'appréhander l'utilisation de la librairie Python tkinter. 
 Langages utilisés : Python, Librairies utilisées : tkinter.
