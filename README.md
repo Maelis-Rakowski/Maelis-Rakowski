@@ -24,7 +24,7 @@ Adresse email : maelis.rakowski@etu.umontpellier.fr
 ![image](https://user-images.githubusercontent.com/77644739/161001205-6f4fa682-8948-4734-b73a-01935ff3f87c.png)
 <br></br>
 
-Mes compétences :
+### Mes compétences :
 <br></br>
 
 <table align="center">
@@ -76,6 +76,11 @@ Mes compétences :
 	</tbody>
 </table>
 
+<br></br>
+### Mon CV : 
+
+![CV_Maelis_Rakowski](https://user-images.githubusercontent.com/77644739/161274402-5f458245-1fe6-47ec-bb30-65e79287245b.png)
+Cliquez <a href="https://github.com/Maelis-Rakowski/Maelis-Rakowski/files/8398168/CV_Maelis_Rakowski.pdf" > ici </a> pour télécharger la version pdf.
 
 ## :mortar_board: Projets scolaires
 
@@ -83,8 +88,9 @@ Mes compétences :
 
 Création d'un site de vente dans le cadre du troisième semestre de mon DUT. Nous étions en groupe de trois étudiants. 
  <br></br>
-J'ai principalement travaillé sur la partie Php du site ainsi que sur la base de donnée.
- <br></br> <br></br>
+J'ai principalement travaillé sur la partie Php, donc la communication avec la base de donnée et entre les pages, du site ainsi que sur la structuration de la base de donnée.
+Ce projet m'a permis d'appronfondir et de mettre en pratique les notions de PHP vue en cours et la mise en place et conceptualisation d'une base donnée.
+ <br></br> 
 Langages utilisés : PHP, HTML, CSS.
 
 ![image](https://user-images.githubusercontent.com/77644739/150508720-0ec0b919-5c30-4e2c-b23f-18769cc3abe2.png)
@@ -94,7 +100,11 @@ Langages utilisés : PHP, HTML, CSS.
 
  ### :milky_way: <a href="https://github.com/liam-thorel/ProjetS3-Rakowski-Sadi-Delalande-Thorel" rel="nofollow">Simulateur de trajectoires de planètes</a>
  
-Projet tuteuré du 3ème semestre en DUT informatique, le but est de réaliser un simulateur de planètes 2D avec une interface simple et ergonomique suivant les lois de Newton et concernant un nombre arbitraire de planètes. Ce projet a été réalisé en groupe de 4 avec le langage de programmation Java et à l'aide de la librairie JavaFX Languages utilisés : Java; Librairies utilisés : JavaFX.
+Projet tuteuré du 3ème semestre en DUT informatique, le but est de réaliser un simulateur de planètes 2D avec une interface simple et ergonomique suivant les lois de Newton et concernant un nombre arbitraire de planètes. Ce projet a été réalisé en groupe de 4 avec le langage de programmation Java et à l'aide de la librairie JavaFX
+J'ai principalement implémenté les méthodes d'interaction entre le code et l'interface, c'est à dire tout ce qu'il se passe lorsque l'on clique sur un bouton pour supprmier une planète par exemple, ainsi que les méthodes pour faire bouger les planètes.
+Ce projet m'a apporté une meilleur connaissance dans la réalisation d'interface, utilisation de JavaFX et a amélioré ma capacité à travailler en groupe.
+ <br></br>
+Languages utilisés : Java; Librairies utilisés : JavaFX.
 
 ![image](https://user-images.githubusercontent.com/77644739/150406976-e85f631a-0ded-4ac0-b3f2-8e6c18c94b92.png)
 
@@ -118,4 +128,16 @@ Projet régulièrement mis à jour avec de nouvelles fonctionnalités.
 Pour en savoir plus sur mon implication sur ce projet :
 https://youtu.be/pCoMe-DV50A
 
-Cliquez <a href= https://rakowskimaelis.itch.io/glowing-in-the-dark rel="nofolow"> ici</a> pour accéder à la page itch.io.
+Cliquez <a href= https://rakowskimaelis.itch.io/glowing-in-the-dark rel="nofolow"> ici</a> pour accéder à la page itch.io et jouer au jeu.
+<br></br>
+### 🔦 Calculateur de statistique par la méthode bayésienne
+
+Développement d'une interface pour calculer les probabilitées grace au <a href="https://www.youtube.com/watch?v=x-2uVNze56s" rel="nofolow"> bayésianisme </a> en Python.
+Pour ce projet, j'ai tout d'abord commencé par rédiger un code simple permettant de réaliser les calcules correctement depuis la console Python. 
+
+Par la suite j'ai réalisé un plan d'interface en quatre étapes en utilisant la méthode additive. A chaque étape, j'ajoute une fonctionnalité à mon interface.
+![S3-G1 - App bayes](https://user-images.githubusercontent.com/77644739/161274033-f7b4750c-0d3a-42fb-a7e7-f910b005cdd2.jpg)
+
+
+Ce projet m'a permis d'approfondire mes connaissances en Python, en création d'interface, en gestion de projet et d'appréhander l'utilisation de la librairie Python tkinter. 
+Langages utilisés : Python, Librairies utilisées : tkinter.
