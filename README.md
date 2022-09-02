@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ## :information_source: À propos
 
-Je suis apprentie au <a href="(https://www.cnam-paca.fr/nos-formations/alternance/ingenieur-specialite-informatique-multimedia)" > CNAM de Toulon en informatique et multimédia</a>.
+Je suis apprentie au <a href="https://www.cnam-paca.fr/nos-formations/alternance/ingenieur-specialite-informatique-multimedia" > CNAM de Toulon en informatique et multimédia</a>.
 <br></br>
 Adresse email : maelis.rakowski@gmail.com
 <br></br>
@@ -111,6 +111,16 @@ Languages utilisés : Java; Librairies utilisés : JavaFX.
 ![image](https://user-images.githubusercontent.com/77644739/150423052-2211f2f2-4835-4a37-bc2b-f563f5c661f8.png)
 
 <br></br>
+## Expériences proffessionnelles
+### 🍞 <a href=https://github.com/Maelis-Rakowski/Poupa>PouPâ</a> - Stage de 14 mois à l'INRAE de Montpellier
+Afin de mieux comprendre la pousse du levain et l’influence de certains facteurs sur celle-ci, Frédéric Mabille et Denis Cassan ont conçu un dispositif expérimental, le « PouPâ » qui enregistre la pousse d’un pâton. Pour cela, le PouPâ est équipé d’un Arduino et de cinq capteurs, quatre capteurs de distance infrarouges et un capteur de température. Les pâtons sont placés dans des flacons et un piston est entrainé par la pousse de la pâte, c’est ce mouvement qui est enregistré par les capteurs infrarouges. Les données sont ensuite stockées dans un carte SD.
+<br></br>
+-> Problème : les données brutes sont illisibles pour un humain, générer des graphiques à l'aide de Python n'est pas accessible à tout le mondes
+Ma mission a été de créer une application en ligne permettant de générer et enregistrer des graphiques à partir des données des PouPâ. Pour cela je me suis servi du framework <a href=https://streamlit.io/>Streamlit</a>.
+![image](https://user-images.githubusercontent.com/77644739/188103024-c844cc28-215c-4012-8be2-f8f685bdd460.png)
+<br></br>
+Lien vers l'application : /déploiement de l'application en cours/ 
+
 ## 🏡 Projets personnels
 
 ### 🔦 Glowing in the dark 
