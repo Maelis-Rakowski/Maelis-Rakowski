@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 ## :information_source: À propos
 
-Je suis une étudiante en DUT Informatique à l'IUT Montpellier-Sète.
+Je suis apprentie au <a href="(https://www.cnam-paca.fr/nos-formations/alternance/ingenieur-specialite-informatique-multimedia)" > CNAM de Toulon en informatique et multimédia</a>.
 <br></br>
-Adresse email : maelis.rakowski@etu.umontpellier.fr
+Adresse email : maelis.rakowski@gmail.com
 <br></br>
 ![image](https://user-images.githubusercontent.com/77644739/160999484-0ef96106-0bda-4ab7-9313-334e96e7a2f2.png)
 <br></br>
