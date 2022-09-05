@@ -79,8 +79,9 @@ Adresse email : maelis.rakowski@gmail.com
 <br></br>
 ### Mon CV : 
 
-![CV_Maelis_Rakowski](https://user-images.githubusercontent.com/77644739/161274402-5f458245-1fe6-47ec-bb30-65e79287245b.png)
-Cliquez <a href="https://github.com/Maelis-Rakowski/Maelis-Rakowski/files/8398168/CV_Maelis_Rakowski.pdf" > ici </a> pour télécharger la version pdf.
+![CV_Maelis_Rakowski_V4-1](https://user-images.githubusercontent.com/77644739/188432427-9ff9d225-4179-49bf-a172-c899cad342e3.png)
+
+Cliquez <a href="https://github.com/Maelis-Rakowski/Maelis-Rakowski/files/9489121/CV_Maelis_Rakowski_V4.pdf" > ici </a> pour télécharger la version pdf.
 
 ## :mortar_board: Projets scolaires
 
