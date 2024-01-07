@@ -113,7 +113,7 @@ Languages utilisés : Java; Librairies utilisés : JavaFX.
 
 <br></br>
 ## Expériences proffessionnelles
-### 🍞 <a href=https://github.com/Maelis-Rakowski/Poupa>PouPâ</a> - Stage de 14 mois à l'INRAE de Montpellier
+### 🍞 <a href=https://github.com/Maelis-Rakowski/Poupa>PouPâ</a> - Stage de 14 semaines à l'INRAE de Montpellier
 Afin de mieux comprendre la pousse du levain et l’influence de certains facteurs sur celle-ci, Frédéric Mabille et Denis Cassan ont conçu un dispositif expérimental, le « PouPâ » qui enregistre la pousse d’un pâton. Pour cela, le PouPâ est équipé d’un Arduino et de cinq capteurs, quatre capteurs de distance infrarouges et un capteur de température. Les pâtons sont placés dans des flacons et un piston est entrainé par la pousse de la pâte, c’est ce mouvement qui est enregistré par les capteurs infrarouges. Les données sont ensuite stockées dans un carte SD.
 <br></br>
 -> Problème : les données brutes sont illisibles pour un humain, générer des graphiques à l'aide de Python n'est pas accessible à tout le mondes
