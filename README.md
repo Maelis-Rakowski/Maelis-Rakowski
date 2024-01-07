@@ -119,7 +119,6 @@ Afin de mieux comprendre la pousse du levain et l’influence de certains facteu
 -> Problème : les données brutes sont illisibles pour un humain, générer des graphiques à l'aide de Python n'est pas accessible à tout le mondes
 Ma mission a été de créer une application en ligne permettant de générer et enregistrer des graphiques à partir des données des PouPâ. Pour cela je me suis servi du framework <a href=https://streamlit.io/>Streamlit</a>.
 ![image](https://user-images.githubusercontent.com/77644739/188103024-c844cc28-215c-4012-8be2-f8f685bdd460.png)
-![image](https://github.com/Maelis-Rakowski/Maelis-Rakowski/assets/77644739/451d9925-95b8-49b9-ba3f-60f13c88f144)
 <br></br>
 Lien vers l'application : /déploiement de l'application en cours/ 
 
