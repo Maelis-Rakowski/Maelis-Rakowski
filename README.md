@@ -75,7 +75,7 @@ Cliquez <a href=https://github.com/Maelis-Rakowski/Maelis-Rakowski/files/1538115
 
 <br></br>
 ## Expériences proffessionnelles
-### ⚕️ - Alternance developpeuse back-end chez <a href=https://www.thess-corp.fr/>Thess Corporate </a>
+### ⚕️ - Alternance developpeuse back-end chez <a href=https://www.thess-corp.fr/>Thess Corporate </a> depuis octobre 2022
 #### Compétences clés :
 `Java`, `Spring Boot`, `Kafka`, `Kubernetes`, `Kafka`, `CICD avec Git`, `Git`, `Scrum`, `Posgres SQL`, `Flyway`
 #### Description
