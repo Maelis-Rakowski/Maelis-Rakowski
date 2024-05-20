@@ -31,50 +31,39 @@ Adresse email : maelis.rakowski@gmail.com
 	<thead>
 		<tr>
 			<th colspan="2"><b>Languages</b></th>
-			<th colspan="2"><b>Libraries</b></th>
-			<th colspan="2"><b>Outils</b></th>
-   <th colspan="1"><b>Autre</b></th>
+			<th colspan="2"><b>Frameworks/Librairies</b></th>
+			<th colspan="2"><b>Logiciels/Outils</b></th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/Java_(programming_language)" rel="nofollow">Java</a></td>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/C_(programming_language)" rel="nofollow">C</a></td>
-			<td align="center"><a href="https://matplotlib.org/" rel="nofollow">Matplotlib</a></td>
-			<td align="center"><a href="https://openjfx.io//" rel="nofollow">JavaFX</a></td>
-			<td align="center"><a href="https://code.visualstudio.com/" rel="nofollow">VS Code</a></td>
-			<td align="center"><a href="https://visualstudio.microsoft.com/" rel="nofollow">Visual Studio</a></td>
-   			<td align="center"><a href="https://fr.wordpress.org/" rel="nofollow">WordPress</a></td>
+			<td align="center">Java</td> <td align="center">C#</td>
+			<td align="center">Spring Boot</td> <td align="center">Kafka</td>
+			<td align="center">IntelliJ IDEA</td> <td align="center">Visual Studio Code</td>
 		</tr>
 		<tr>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/Java_(programming_language)" rel="nofollow">Php</a></td>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/HTML" rel="nofollow">HTML</a></td>
-   			<td align="center"><a href="https://numpy.org/" rel="nofollow">Numpy</a></td>
-			<td align="center"><a href="https://docs.python.org/3/library/tkinter.html">TKinter</a></td>
-			<td align="center"><a href="https://www.jetbrains.com/idea/" rel="nofollow">IntelliJ</a></td>
-			<td align="center"><a href="https://unity.com/" rel="nofollow">Unity</a></td>
-   			<td align="center"><a href="https://github.com/" rel="nofollow">GitHub</a></td>
+			<td align="center">Php</td><td align="center">HTML/CSS</td>
+   			<td align="center">Swagger</a></td> <td align="center">JPA</a></td>
+			<td align="center">Godot</td><td align="center">Unity</td>
 		</tr>
 		<tr>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/CSS" rel="nofollow">CSS</a></td>
-			<td align="center"><a href="https://fr.wikipedia.org/wiki/PL/SQL" rel="nofollow">PL/SQL</a></td>
-			<td align="center"></td>
-   			<td align="center"></td>
-			<td align="center"><a href="https://www.spyder-ide.org/" rel="nofollow">Spyder</a></td>
-			<td align="center"><a href="https://www.microsoft.com/en-us/microsoft-365/excel" rel="nofollow">Excel</a></td>
-   			<td align="center"><a href="https://gitlab.com/gitlab-org/gitlab" rel="nofollow">GitLab</a></td>
+			<td align="center">JavaScript/JQuery</td><td align="center">PL/SQL</td>
+			<td align="center">Numpy/MatplotLib</td><td align="center">JavaFx</td>
+			<td align="center">Docker</td><td align="center">Blender</td>
 		</tr>
 		<tr>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" rel="nofollow">C#</a></td>
-			<td align="center"><a href="https://fr.wikipedia.org/wiki/Python_(langage)" rel="nofollow">Python</a></td>
-   			<td align="center"></td>
-			<td align="center"></td>
-   			<td align="center"><a href="https://fr.wikipedia.org/wiki/Bootstrap_(framework)" rel="nofollow">Bootstrap</a></td>
-			<td align="center"><a href="https://www.jetbrains.com/pycharm/">PyCharm</a></td>
-			<td align="center"><a href="https://www.postgresql.org/" rel="nofollow">PostGreSQL</a></td>
+			<td align="center">Kotlin</td><td align="center">Python</td>
+   			<td align="center">TKinter</td><td align="center">Flyway</td>
+   			<td align="center">Kubernetes</td><td align="center">PyCharm</td>
+		</tr>
+		<tr>
+			<td align="center"></td><td align="center"></td>
+   			<td align="center"></td><td align="center"></td>
+   			<td align="center">PostgreSQL</td><td align="center"></td>
 		</tr>
 	</tbody>
 </table>
+
 
 <br></br>
 ### Mon CV : 
@@ -87,14 +76,15 @@ Cliquez <a href=https://github.com/Maelis-Rakowski/Maelis-Rakowski/files/1537020
 ## Expériences proffessionnelles
 ### ⚕️ - Alternance developpeuse back-end chez <a href=https://www.thess-corp.fr/>Thess Corporate </a>
 #### Compétences clés :
-`Java`, `Spring Boot`, `Kafka`, `Kubernetes`, `Kafka`, `CICD avec Git`, `Git`, `Scrum`
+`Java`, `Spring Boot`, `Kafka`, `Kubernetes`, `Kafka`, `CICD avec Git`, `Git`, `Scrum`, `Posgres SQL`, `Flyway`
 #### Description
 Dévelopement d'une application de télésurveillance médicale en tant que développeuse back-end au sein d'une équipe SCRUM. Le produit est en cours de certification MDR classe 2a et notre système qualité est certifié ISO 13485.
 Mes missions sont mulitples :
-- maintenance applicative
-- développement et conceptions de nouvelles fonctionnalités 
-- déploiement de nouvelles versions
-- réalisation de test unitaire.
+- Développement et conceptions de nouvelles fonctionnalités
+- Ecriture de scipte de migration de base de donnée
+- Maintenance applicative
+- Déploiement de nouvelles versions
+- Réalisation de test unitaire et d'integration
 
 ### 🍞 <a href=https://github.com/Maelis-Rakowski/Poupa>PouPâ</a> - Stage de 14 semaines à l'INRAE de Montpellier
 #### Compétences clés : 
