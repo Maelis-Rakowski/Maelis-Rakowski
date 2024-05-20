@@ -32,7 +32,7 @@ Adresse email : maelis.rakowski@gmail.com
 		<tr>
 			<th colspan="2"><b>Languages</b></th>
 			<th colspan="2"><b>Libraries</b></th>
-			<th colspan="2"><b>Softwares</b></th>
+			<th colspan="2"><b>Outils</b></th>
    <th colspan="1"><b>Autre</b></th>
 		</tr>
 	</thead>
@@ -79,56 +79,63 @@ Adresse email : maelis.rakowski@gmail.com
 <br></br>
 ### Mon CV : 
 
-![CV_Maelis_Rakowski_V4-1](https://user-images.githubusercontent.com/77644739/188432427-9ff9d225-4179-49bf-a172-c899cad342e3.png)
+![CV - Maelis Rakowski V5](https://github.com/Maelis-Rakowski/Maelis-Rakowski/assets/77644739/347c3821-84bf-4957-988c-90668a981dfc)
 
-Cliquez <a href="https://github.com/Maelis-Rakowski/Maelis-Rakowski/files/9489121/CV_Maelis_Rakowski_V4.pdf" > ici </a> pour télécharger la version pdf.
-
-## :mortar_board: Projets scolaires
-
-### :turtle: <a href="https://github.com/Maelis-Rakowski/Projet-PHP-Rakowski-Sadi-Valadier" rel="nofollow">Site de vente de tortues</a>
-
-Création d'un site de vente dans le cadre du troisième semestre de mon DUT. Nous étions en groupe de trois étudiants. 
- <br></br>
-J'ai principalement travaillé sur la partie Php, donc la communication avec la base de donnée et entre les pages, du site ainsi que sur la structuration de la base de donnée.
-Ce projet m'a permis d'appronfondir et de mettre en pratique les notions de PHP vue en cours et la mise en place et conceptualisation d'une base donnée.
- <br></br> 
-Langages utilisés : PHP, HTML, CSS.
-
-![image](https://user-images.githubusercontent.com/77644739/150508720-0ec0b919-5c30-4e2c-b23f-18769cc3abe2.png)
-
- <a href=https://webinfo.iutmontp.univ-montp2.fr/~valadiery/eCommerce/index.php rel="nofolow">Accéder au site</a> 
- <br></br>
-
- ### :milky_way: <a href="https://github.com/liam-thorel/ProjetS3-Rakowski-Sadi-Delalande-Thorel" rel="nofollow">Simulateur de trajectoires de planètes</a>
- 
-Projet tuteuré du 3ème semestre en DUT informatique, le but est de réaliser un simulateur de planètes 2D avec une interface simple et ergonomique suivant les lois de Newton et concernant un nombre arbitraire de planètes. Ce projet a été réalisé en groupe de 4 avec le langage de programmation Java et à l'aide de la librairie JavaFX
-J'ai principalement implémenté les méthodes d'interaction entre le code et l'interface, c'est à dire tout ce qu'il se passe lorsque l'on clique sur un bouton pour supprmier une planète par exemple, ainsi que les méthodes pour faire bouger les planètes.
-Ce projet m'a apporté une meilleur connaissance dans la réalisation d'interface, utilisation de JavaFX et a amélioré ma capacité à travailler en groupe.
- <br></br>
-Languages utilisés : Java; Librairies utilisés : JavaFX.
-
-![image](https://user-images.githubusercontent.com/77644739/150406976-e85f631a-0ded-4ac0-b3f2-8e6c18c94b92.png)
-
-![image](https://user-images.githubusercontent.com/77644739/150423052-2211f2f2-4835-4a37-bc2b-f563f5c661f8.png)
+Cliquez <a href=https://github.com/Maelis-Rakowski/Maelis-Rakowski/files/15370208/CV.-.Maelis.Rakowski.pdf> ici</a> pour télécharger la version pdf.
 
 <br></br>
 ## Expériences proffessionnelles
+### ⚕️ - Alternance developpeuse back-end chez <a href=https://www.thess-corp.fr/>Thess Corporate </a>
+#### Compétences clés :
+`Java`, `Spring Boot`, `Kafka`, `Kubernetes`, `Kafka`, `CICD avec Git`, `Git`, `Scrum`
+#### Description
+Dévelopement d'une application de télésurveillance médicale en tant que développeuse back-end au sein d'une équipe SCRUM. Le produit est en cours de certification MDR classe 2a et notre système qualité est certifié ISO 13485.
+Mes missions sont mulitples :
+- maintenance applicative
+- développement et conceptions de nouvelles fonctionnalités 
+- déploiement de nouvelles versions
+- réalisation de test unitaire.
+
 ### 🍞 <a href=https://github.com/Maelis-Rakowski/Poupa>PouPâ</a> - Stage de 14 semaines à l'INRAE de Montpellier
+#### Compétences clés : 
+`Python`, `Framework Streamlit`, `Git`
+#### Description
 Afin de mieux comprendre la pousse du levain et l’influence de certains facteurs sur celle-ci, Frédéric Mabille et Denis Cassan ont conçu un dispositif expérimental, le « PouPâ » qui enregistre la pousse d’un pâton. Pour cela, le PouPâ est équipé d’un Arduino et de cinq capteurs, quatre capteurs de distance infrarouges et un capteur de température. Les pâtons sont placés dans des flacons et un piston est entrainé par la pousse de la pâte, c’est ce mouvement qui est enregistré par les capteurs infrarouges. Les données sont ensuite stockées dans un carte SD.
 <br></br>
 -> Problème : les données brutes sont illisibles pour un humain, générer des graphiques à l'aide de Python n'est pas accessible à tout le mondes
 Ma mission a été de créer une application en ligne permettant de générer et enregistrer des graphiques à partir des données des PouPâ. Pour cela je me suis servi du framework <a href=https://streamlit.io/>Streamlit</a>.
+
 ![image](https://user-images.githubusercontent.com/77644739/188103024-c844cc28-215c-4012-8be2-f8f685bdd460.png)
 <br></br>
-Lien vers l'application : /déploiement de l'application en cours/ 
 
 ## 🏡 Projets personnels
 
+### 🐸 <a href="https://linktr.ee/lavanha"> Lavanha </a>
+#### Compétence clés
+`C#`, `Unity`, `Game design`, `Story Telling`, `Gestion de projet`
+
+#### Description
+Jeu vidéo de vulgarisation scientifique autour de la biodiversité des marres et zones humides encore en cours de développement. Ce projet prend forme en un jeu vidéo d'énigmes où vous incarnerez un.e jeune triton qui cherche a partir de la mare où iel a grandi. Mais l'aventure fait peur... alors c'est décidé ! Le départ se fera, mais en montgolfière ! Il vous faudra explorer la mare pour rassembler tous les éléments nécessaires à la construction de la montgolfière.
+Nous sommes une équipe réduite de 3 personnes.
+En tant que seule développeuse du projet je dois :  
+- Conception et développement avec l'outil Unity
+- Design et implémentation du gamplay
+- Travail sur le level design et le story telling
+- Gestion de projet
+
+![general](https://github.com/Maelis-Rakowski/Maelis-Rakowski/assets/77644739/ddfab139-3ed0-4d8c-add8-400190b775cb)
+
+![dialogue](https://github.com/Maelis-Rakowski/Maelis-Rakowski/assets/77644739/fd82d74c-aea4-4e9e-815c-5f5f4d03ada4)
+
+![briquet](https://github.com/Maelis-Rakowski/Maelis-Rakowski/assets/77644739/67d4b570-b149-446d-b110-eeb3c476ed93)
+
+
 ### 🔦 Glowing in the dark 
- 
+#### Compétences clés
+`C#`, `Unity`, `Gestion de projet`, `Game design`
+#### Description
  Jeu vidéo développé dans le cadre de la <a href="https://codegamejam.extragames.fr/" rel="nofollow"> Code Game Jam 2022</a> en groupe de 5 sur le thème "Merveilles des profondeurs" en 30h. <br></br>
  Nous incarnons un petit robot enfermé dans des mines sombres avec pour seul éclairage une lampe torche. Il faudra récolter des minerais et utiliser sa lampe torche à bonne escient pour résoudre les différentes énigmes.
- Langage utilisé = C#; Logiciel = Unity
  
  ![image](https://user-images.githubusercontent.com/77644739/150506465-ccf843a8-8dfa-4f5c-ab8b-ee0abc893a1e.png)
  ![image](https://user-images.githubusercontent.com/77644739/150506647-296e11a0-a0d9-4570-bb37-8e0211df44f0.png)
@@ -142,7 +149,9 @@ https://youtu.be/pCoMe-DV50A
 Cliquez <a href= https://rakowskimaelis.itch.io/glowing-in-the-dark rel="nofolow"> ici</a> pour accéder à la page itch.io et jouer au jeu.
 <br></br>
 ### 📊 Calculateur de statistiques par la méthode bayésienne
-
+#### Compétences clés
+`Python`, `Tkinter`
+#### Description
 Développement d'une interface pour calculer les probabilitées grace au <a href="https://www.youtube.com/watch?v=x-2uVNze56s" rel="nofolow"> bayésianisme </a> en Python.
 Pour ce projet, j'ai tout d'abord commencé par rédiger un code simple permettant de réaliser les calcules correctement depuis la console Python. 
 
@@ -156,4 +165,48 @@ L'interface actuelle :
 </p>
 
 Ce projet m'a permis d'approfondire mes connaissances en Python, en création d'interface, en gestion de projet et d'appréhander l'utilisation de la librairie Python tkinter. 
-Langages utilisés : Python, Librairies utilisées : tkinter.
+<br></br>
+
+## :mortar_board: Projets scolaires
+
+### <a href="https://logandej.itch.io/elysion">Elysion</a>
+#### Compétences clés
+`C#`, `Unity`, `Blender`
+#### Description
+Développement d'un jeu vidéo dans un groupe de trois personnes dans le cadre de ma formation d'ingénieur en informatique et multimédia au CNAM. Elysion est un jeu d'aventure, d'action et d'énigmes à la 3e personne. Suite à une invasion étrangère, la planète Elysion subit de gros dégâts. Une seule personne arrive à survivre et on la retrouve 15 ans plus tard. Vous incarnez un personnage soif de vengeance qui va explorer, combattre et résoudre des énigmes.
+
+Mes missions sur ce projet :
+- Game design et story telling
+- Développment et design des ennemis et de leur intelligence
+
+![image](https://github.com/Maelis-Rakowski/Maelis-Rakowski/assets/77644739/17dc0138-59f0-4414-a46a-8cf0dd2dcf6b)
+
+![image](https://github.com/Maelis-Rakowski/Maelis-Rakowski/assets/77644739/29fe5d64-cbd0-4224-b0ec-638d1c582e4f)
+
+### :turtle: <a href="https://github.com/Maelis-Rakowski/Projet-PHP-Rakowski-Sadi-Valadier" rel="nofollow">Site de vente de tortues</a>
+#### Compétence clés
+`PHP`, `HTML`, `CSS`
+#### Description
+Création d'un site de vente dans le cadre du troisième semestre de mon DUT. Nous étions en groupe de trois étudiants. 
+ <br></br>
+J'ai principalement travaillé sur la partie Php, donc la communication avec la base de donnée et entre les pages, du site ainsi que sur la structuration de la base de donnée.
+Ce projet m'a permis d'appronfondir et de mettre en pratique les notions de PHP vue en cours et la mise en place et conceptualisation d'une base donnée.
+ <br></br> 
+
+![image](https://user-images.githubusercontent.com/77644739/150508720-0ec0b919-5c30-4e2c-b23f-18769cc3abe2.png)
+
+<a href=https://webinfo.iutmontp.univ-montp2.fr/~valadiery/eCommerce/index.php rel="nofolow">Accéder au site</a> 
+<br></br>
+### :milky_way: <a href="https://github.com/liam-thorel/ProjetS3-Rakowski-Sadi-Delalande-Thorel" rel="nofollow">Simulateur de trajectoires de planètes</a>
+#### Compétences clés
+`Java`, `JavaFX`, `Conception d'interface`, `Gestion de projet`
+#### Description
+Projet tuteuré du 3ème semestre en DUT informatique, le but est de réaliser un simulateur de planètes 2D avec une interface simple et ergonomique suivant les lois de Newton et concernant un nombre arbitraire de planètes. Ce projet a été réalisé en groupe de 4 avec le langage de programmation Java et à l'aide de la librairie JavaFX
+J'ai principalement implémenté les méthodes d'interaction entre le code et l'interface, c'est à dire tout ce qu'il se passe lorsque l'on clique sur un bouton pour supprmier une planète par exemple, ainsi que les méthodes pour faire bouger les planètes.
+Ce projet m'a apporté une meilleur connaissance dans la réalisation d'interface, utilisation de JavaFX et a amélioré ma capacité à travailler en groupe.
+ <br></br>
+Languages utilisés : Java; Librairies utilisés : JavaFX.
+
+![image](https://user-images.githubusercontent.com/77644739/150406976-e85f631a-0ded-4ac0-b3f2-8e6c18c94b92.png)
+
+![image](https://user-images.githubusercontent.com/77644739/150423052-2211f2f2-4835-4a37-bc2b-f563f5c661f8.png)
