@@ -66,14 +66,6 @@ Adresse email : maelis.rakowski@gmail.com
 
 
 <br></br>
-### Mon CV : 
-
-![CV - Maelis Rakowski V5](https://github.com/Maelis-Rakowski/Maelis-Rakowski/assets/77644739/ae8a96d8-ed21-4969-9ac5-d7cf36d25573)
-
-
-Cliquez <a href=https://github.com/Maelis-Rakowski/Maelis-Rakowski/files/15381150/CV.-.Maelis.Rakowski.pdf> ici</a> pour télécharger la version pdf.
-
-<br></br>
 ## Expériences proffessionnelles
 ### ⚕️ - Alternance developpeuse back-end chez <a href=https://www.thess-corp.fr/>Thess Corporate </a> depuis octobre 2022
 #### Compétences clés :
