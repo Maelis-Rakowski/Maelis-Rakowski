@@ -100,7 +100,7 @@ Ma mission a été de créer une application en ligne permettant de générer et
 #### Description
 Jeu vidéo de vulgarisation scientifique autour de la biodiversité des marres et zones humides encore en cours de développement. Ce projet prend forme en un jeu vidéo d'énigmes où vous incarnerez un.e jeune triton qui cherche a partir de la mare où iel a grandi. Mais l'aventure fait peur... alors c'est décidé ! Le départ se fera, mais en montgolfière ! Il vous faudra explorer la mare pour rassembler tous les éléments nécessaires à la construction de la montgolfière.
 Nous sommes une équipe réduite de 3 personnes.
-En tant que seule développeuse du projet je dois :  
+En tant que seule développeuse du projet mes missions sont :  
 - Conception et développement avec l'outil Unity
 - Design et implémentation du gamplay
 - Travail sur le level design et le story telling
@@ -112,6 +112,7 @@ En tant que seule développeuse du projet je dois :
 
 ![briquet](https://github.com/Maelis-Rakowski/Maelis-Rakowski/assets/77644739/67d4b570-b149-446d-b110-eeb3c476ed93)
 
+Ce projet est encore en cours de développement ! 🐛
 
 ### 🔦 Glowing in the dark 
 #### Compétences clés
