@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ## :information_source: À propos
 
-Je suis apprentie au <a href="https://www.cnam-paca.fr/nos-formations/alternance/ingenieur-specialite-informatique-multimedia" > CNAM de Toulon en informatique et multimédia</a>.
+Je suis apprentie au <a href="https://www.cnam-paca.fr/nos-formations/alternance/ingenieur-specialite-informatique-multimedia" > CNAM de Toulon en informatique et multimédia</a>. Je suis également animatrice et coordinatrice au Eclaireurs Eclaireuses de France depuis 2020.
 <br></br>
 Adresse email : maelis.rakowski@gmail.com
 <br></br>
@@ -23,6 +23,11 @@ Adresse email : maelis.rakowski@gmail.com
 <br></br>
 ![image](https://user-images.githubusercontent.com/77644739/161001205-6f4fa682-8948-4734-b73a-01935ff3f87c.png)
 <br></br>
+
+## Mon CV
+[Version PDF](https://github.com/user-attachments/files/15747697/CV.-.Maelis.Rakowski.pdf)
+
+![CV - Maelis Rakowski](https://github.com/Maelis-Rakowski/Maelis-Rakowski/assets/77644739/c95c8255-f4ef-4192-80ef-ec2a76fa6463)
 
 ### Mes compétences :
 <br></br>
@@ -63,7 +68,6 @@ Adresse email : maelis.rakowski@gmail.com
 		</tr>
 	</tbody>
 </table>
-
 
 <br></br>
 ## Expériences proffessionnelles
