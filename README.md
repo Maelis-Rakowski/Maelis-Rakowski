@@ -70,7 +70,7 @@ Adresse email : maelis.rakowski@gmail.com
 </table>
 
 <br></br>
-## Expériences proffessionnelles
+## 💼 Expériences proffessionnelles
 ### ⚕️ - Alternance developpeuse back-end chez <a href=https://www.thess-corp.fr/>Thess Corporate </a> depuis octobre 2022
 #### Compétences clés :
 `Java`, `Spring Boot`, `Kafka`, `Kubernetes`, `Kafka`, `CICD avec Git`, `Git`, `Scrum`, `Posgres SQL`, `Flyway`
@@ -97,7 +97,7 @@ Ma mission a été de créer une application en ligne permettant de générer et
 
 ## 🏡 Projets personnels
 
-### 🐸 <a href="https://linktr.ee/lavanha"> Lavanha </a>
+### 🐸 - <a href="https://linktr.ee/lavanha"> Lavanha </a>
 #### Compétence clés
 `C#`, `Unity`, `Game design`, `Story Telling`, `Gestion de projet`
 
@@ -118,7 +118,7 @@ En tant que seule développeuse du projet mes missions sont :
 
 Ce projet est encore en cours de développement ! 🐛
 
-### 🔦 Glowing in the dark 
+### 🔦 - Glowing in the dark 
 #### Compétences clés
 `C#`, `Unity`, `Gestion de projet`, `Game design`
 #### Description
@@ -136,7 +136,7 @@ https://youtu.be/pCoMe-DV50A
 
 Cliquez <a href= https://rakowskimaelis.itch.io/glowing-in-the-dark rel="nofolow"> ici</a> pour accéder à la page itch.io et jouer au jeu.
 <br></br>
-### 📊 Calculateur de statistiques par la méthode bayésienne
+### 📊 - Calculateur de statistiques par la méthode bayésienne
 #### Compétences clés
 `Python`, `Tkinter`
 #### Description
