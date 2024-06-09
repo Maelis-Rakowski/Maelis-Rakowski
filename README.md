@@ -25,9 +25,9 @@ Adresse email : maelis.rakowski@gmail.com
 <br></br>
 
 ## Mon CV
-[Version PDF](https://github.com/user-attachments/files/15747697/CV.-.Maelis.Rakowski.pdf)
+[Version PDF](https://github.com/user-attachments/files/15751228/CV.-.Maelis.Rakowski.pdf)
 
-![CV - Maelis Rakowski](https://github.com/Maelis-Rakowski/Maelis-Rakowski/assets/77644739/c95c8255-f4ef-4192-80ef-ec2a76fa6463)
+![CV - Maelis Rakowski](https://github.com/Maelis-Rakowski/Maelis-Rakowski/assets/77644739/80c87729-5e0f-4717-847e-7f390e8cc572)
 
 ### Mes compétences :
 <br></br>
