@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 Je suis apprentie au <a href="https://www.cnam-paca.fr/nos-formations/alternance/ingenieur-specialite-informatique-multimedia" > CNAM de Toulon en informatique et multimédia</a>. Je suis également animatrice et coordinatrice au Eclaireurs Eclaireuses de France depuis 2020.
 <br></br>
 Adresse email : maelis.rakowski@gmail.com
+<br>
+Mon portfolio : https://maelisrakow.wixsite.com/maelis-rakowski
 <br></br>
 ![image](https://user-images.githubusercontent.com/77644739/160999484-0ef96106-0bda-4ab7-9313-334e96e7a2f2.png)
 <br></br>
