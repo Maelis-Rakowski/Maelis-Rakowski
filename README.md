@@ -72,7 +72,7 @@ Mon portfolio : https://maelisrakow.wixsite.com/maelis-rakowski
 </table>
 
 <br></br>
-## 💼 Expériences proffessionnelles
+## 💼 Expériences professionnelles
 ### ⚕️ - Alternance developpeuse back-end chez <a href=https://www.thess-corp.fr/>Thess Corporate </a> depuis octobre 2022
 #### Compétences clés :
 `Java`, `Spring Boot`, `Kafka`, `Kubernetes`, `Kafka`, `CICD avec Git`, `Git`, `Scrum`, `Posgres SQL`, `Flyway`
